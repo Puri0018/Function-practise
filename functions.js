@@ -48,5 +48,6 @@ function output (message) {
   console.log("\n");
   console.log(message);
   console.log("\n");
+  
 }
 
